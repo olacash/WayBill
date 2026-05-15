@@ -1,0 +1,16 @@
+{
+  "name": "waybill-tracking",
+  "version": "1.0.0",
+  "description": "Waybill tracking website with admin-issued tracking codes.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "license": "MIT"
+}
